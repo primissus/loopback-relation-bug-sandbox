@@ -31,5 +31,13 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "ModelA": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "ModelB": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
